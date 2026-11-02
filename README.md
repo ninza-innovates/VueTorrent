@@ -1,3 +1,5 @@
+> **Fork notice:** This repository is a copy of [VueTorrent/VueTorrent](https://github.com/VueTorrent/VueTorrent), maintained by its original authors. All credit for the original work goes to them. It's licensed under the upstream project's license (GPL-3.0).
+
 # VueTorrent
 
 The sleekest looking WebUI for qBittorrent made with Vue.js!
